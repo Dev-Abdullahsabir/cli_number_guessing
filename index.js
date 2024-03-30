@@ -16,6 +16,6 @@ if (answer.userGuessNumber === randomNumber) {
     console.log(`Congratulations! you guessed right number`);
 }
 else {
-    console.log(`Invalid number`);
+    console.log(`Invalid number the number is ${randomNumber}`);
 }
 ;
